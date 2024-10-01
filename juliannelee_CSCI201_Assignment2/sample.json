@@ -1,0 +1,12 @@
+{
+    "data": [
+        {
+            "name": "Tesla Inc",
+            "ticker": "TSLA",
+            "startDate": "2010-06-29",
+            "stockBrokers": 3,
+            "description": "Tesla Motors, Inc. (Tesla) designs, develops, manufactures and sells electric vehicles and advanced electric vehicle powertrain components.", "exchangeCode": "NASDAQ"
+            
+        }
+    ]
+}
